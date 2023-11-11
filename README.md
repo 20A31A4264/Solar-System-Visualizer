@@ -23,6 +23,7 @@ After importing the necessary libraries, we initialize Pygame using the pygame.i
 
 # Initialize Pygame
 pygame.init()
+
 Blog Home
 Data Science
 Categories
